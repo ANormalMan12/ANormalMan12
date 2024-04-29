@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ANormalMan12
-- 👀 I’m interested in C++, CV, ASR, NLP and algorithm competition.
-- 🌱 I’m currently learning pytorch, JUCE and data structures.
--    I’m looking to collaborate on ...
+- 👀 I’m interested in Offline Reinforcement Learning.
+- 🌱 I’m currently learning pytorch, ...
 - 📫 How to reach me ...
 
 <!---
