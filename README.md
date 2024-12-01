@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ANormalMan12
-- 👀 I’m interested in MLSys and Derivative-Free Optimization.
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Weiye Wang.
+- 👀 I’m interested in MLSys, especially large language model inference serving.
 
 <!---
 ANormalMan12/ANormalMan12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
